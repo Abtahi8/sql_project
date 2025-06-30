@@ -6,7 +6,7 @@ Dive into the data job market! This project focuses on **Data Analyst** roles, e
 - 🔥 In-demand skills  
 - 📈 Where high demand meets high salary in data analytics  
 
-Explore all SQL queries in the [`project_sql`](./project_sql) folder.
+Explore all SQL queries in the [`project_sql`](https://github.com/Abtahi8/sql_project/tree/main/project_query) folder.
 
 ---
 
